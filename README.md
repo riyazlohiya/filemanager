@@ -1,4 +1,4 @@
-# PHP File Manager
+# PHP File Manager.
 
 A good solution for managing files and folders for developers who can't access site over SSH or FTP.
 
